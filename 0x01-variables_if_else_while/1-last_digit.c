@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main : function is point for comparing a string to a number
- * Description : 'get The last digit of a number'
- * Return : is always zero for succes
+ *main - entry point
+ *Description: 'get The last digit of a number'
+ *Return: is always zero for succes
  */
 int main(void)
 {
