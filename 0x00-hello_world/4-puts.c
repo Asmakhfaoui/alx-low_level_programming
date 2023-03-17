@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * it's a comment
- * return is equal to 0
+ * it's a short description of main function
+ * it return value is equal to 0
  */
 int main(void)
 {
