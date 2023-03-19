@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
  *main - entry point
- *description: 'this programme prints characteres lowercase'
- *return is always 0
+ *Description: 'print characteres lowercase'
+ *Return: always is 0 for  success
  */
 int main(void)
 {
@@ -10,9 +10,11 @@ int main(void)
 
 	while (n <= 122)
 	{
-		putchar (n);
+		putchar(n);
 		n++;
 	}
-	putchar ( );
-	return(0);
+
+	putchar ('\n');
+
+	return (0);
 }
